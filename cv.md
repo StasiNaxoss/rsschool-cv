@@ -6,7 +6,7 @@
 <br>Languages
 
 * Russian - native 
-* English - pre-intermedian
+* English - pre-intermediate
 
 Knowledge:
 * Adobe Photoshop
