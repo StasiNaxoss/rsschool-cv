@@ -4,7 +4,7 @@
 <br>I'm a lawyer, but interesting for coding
 <br>Languages
 
-* Rusiian - native 
+* Russian - native 
 * English - pre-intermedian
 
 Knowledge:
