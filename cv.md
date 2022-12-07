@@ -2,10 +2,10 @@
 ## 8 903 123 45 67
 ## test@mail.ru
 <br>I'm a lawyer, but interesting for coding
-<br><br>
 
 **Experience:**
-<br>No experience
+
+No experience
 
 **Languages:**
 
