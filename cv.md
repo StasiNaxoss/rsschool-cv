@@ -2,13 +2,16 @@
 ## 8 903 123 45 67
 ## test@mail.ru
 <br>I'm a lawyer, but interesting for coding
-<br>Experience:
+<br><br>
+
+**Experience:**
 <br>No experience
-<br>Languages
+
+**Languages:**
 
 * Russian - native 
 * English - pre-intermediate
 
-Knowledge:
+**Knowledge:**
 * Adobe Photoshop
 * Adobe Illustrator
