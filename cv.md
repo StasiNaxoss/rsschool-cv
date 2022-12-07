@@ -12,6 +12,11 @@ No experience
 * Russian - native 
 * English - pre-intermediate
 
+**Skills:**
+
+Basic HTML
+
 **Knowledge:**
+
 * Adobe Photoshop
 * Adobe Illustrator
