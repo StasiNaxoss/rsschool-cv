@@ -1,1 +1,1 @@
-https://StasiNaxoss.github.io/rsschool-cv/cv
+# https://StasiNaxoss.github.io/rsschool-cv/cv
