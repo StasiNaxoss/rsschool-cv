@@ -1,3 +1,7 @@
+* {
+	margin: 0; 
+	padding: 0;
+}
 @font-face {
   font-family:'Roboto';
   src:url("assets/fonts/Roboto-Thin.ttf");
@@ -108,7 +112,7 @@ hr {
 	line-height:0;
 }
 a:link, a:visited, a:active, a:focus {
-	transition: .3s;
+	transition: .1s;
 	text-decoration:none;
 	outline:none;
 	font:Roboto-Regular;
@@ -119,4 +123,5 @@ a {
 }
 a:hover {
 	text-decoration:underline;
+	color:red;
 }
